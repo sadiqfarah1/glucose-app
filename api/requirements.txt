@@ -1,5 +1,0 @@
-fastapi
-mv requirements.txt backend_requirements.txt
-pandas
-scikit-learn
-joblib
